@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  dvls-kubernetes-operator:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-02-27T08:50:09.671574-05:00"
+    description: Devolutions Server Kubernetes Operator
+    digest: 1f00a5a9be620e1a8ac210c06253be8b3474a63dc0b20aeb472ee364d158994e
+    name: dvls-kubernetes-operator
+    type: application
+    urls:
+    - https://devolutions.github.io/helm-charts/dvls-kubernetes-operator/dvls-kubernetes-operator-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-27T08:50:09.670987-05:00"
