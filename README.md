@@ -1,2 +1,5 @@
 # helm-charts
-Devolutions Helm Charts index
+Devolutions' Helm Charts
+
+## Available charts
+- dvls-kubernetes-operator
