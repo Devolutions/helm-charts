@@ -3,17 +3,17 @@ entries:
   dvls-kubernetes-operator:
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2025-10-24T13:47:45.700612421Z"
+    created: "2025-10-24T09:59:37.417765-04:00"
     description: Devolutions Server Kubernetes Operator
-    digest: 713853c0fec01137ba585304f0dacd23003c072a6d0ae755f80ffa2c20db497b
+    digest: ad9ef18714bb8c0500bd63dc0e7bf8d7fffd20c948e3c3ffb25096458f7ff61b
     name: dvls-kubernetes-operator
     type: application
     urls:
-    - https://devolutions.github.io/helm-charts/dvls-kubernetes-operator-0.3.0.tgz
+    - https://devolutions.github.io/helm-charts/dvls-kubernetes-operator/dvls-kubernetes-operator-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2025-10-24T13:47:45.701439542Z"
+    created: "2025-10-24T09:59:37.417132-04:00"
     description: Devolutions Server Kubernetes Operator
     digest: ff91709e8ff1fb64ec7b8f15da05348b2b9bdb63c44e29dac32c6d1699a016c1
     name: dvls-kubernetes-operator
@@ -23,7 +23,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-10-24T13:47:45.701009891Z"
+    created: "2025-10-24T09:59:37.416464-04:00"
     description: Devolutions Server Kubernetes Operator
     digest: 1f00a5a9be620e1a8ac210c06253be8b3474a63dc0b20aeb472ee364d158994e
     name: dvls-kubernetes-operator
@@ -31,4 +31,4 @@ entries:
     urls:
     - https://devolutions.github.io/helm-charts/dvls-kubernetes-operator/dvls-kubernetes-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-24T13:47:45.700013827Z"
+generated: "2025-10-24T09:59:37.415746-04:00"
