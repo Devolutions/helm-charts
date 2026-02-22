@@ -1,9 +1,29 @@
 apiVersion: v1
 entries:
+  devolutions-server:
+  - apiVersion: v2
+    appVersion: 2025.3.15.0
+    created: "2026-02-22T05:33:40.435427313Z"
+    description: Devolutions Server (DVLS) Helm chart
+    digest: a89e025a8e5f4ac7ed5caef5f7754dbbad9549a21f22ca276348c15c3f1e2f67
+    home: https://devolutions.net/server/
+    icon: https://cdnweb.devolutions.net/cdn-cgi/image/f=auto,w=200,onerror=redirect/web/common/images/icons/sys-secure-access.png
+    keywords:
+    - devolutions
+    - dvls
+    - password-manager
+    maintainers:
+    - name: DevOps
+      url: https://forum.devolutions.net/forums/186/devolutions-server--linux
+    name: devolutions-server
+    type: application
+    urls:
+    - https://devolutions.github.io/helm-charts/devolutions-server/devolutions-server-0.1.0.tgz
+    version: 0.1.0
   dvls-kubernetes-operator:
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2025-10-24T09:59:37.417765-04:00"
+    created: "2026-02-22T05:33:40.436826831Z"
     description: Devolutions Server Kubernetes Operator
     digest: ad9ef18714bb8c0500bd63dc0e7bf8d7fffd20c948e3c3ffb25096458f7ff61b
     name: dvls-kubernetes-operator
@@ -13,7 +33,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2025-10-24T09:59:37.417132-04:00"
+    created: "2026-02-22T05:33:40.436307065Z"
     description: Devolutions Server Kubernetes Operator
     digest: ff91709e8ff1fb64ec7b8f15da05348b2b9bdb63c44e29dac32c6d1699a016c1
     name: dvls-kubernetes-operator
@@ -23,7 +43,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-10-24T09:59:37.416464-04:00"
+    created: "2026-02-22T05:33:40.435802908Z"
     description: Devolutions Server Kubernetes Operator
     digest: 1f00a5a9be620e1a8ac210c06253be8b3474a63dc0b20aeb472ee364d158994e
     name: dvls-kubernetes-operator
@@ -31,4 +51,4 @@ entries:
     urls:
     - https://devolutions.github.io/helm-charts/dvls-kubernetes-operator/dvls-kubernetes-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-24T09:59:37.415746-04:00"
+generated: "2026-02-22T05:33:40.434452523Z"
