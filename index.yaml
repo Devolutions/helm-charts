@@ -20,25 +20,6 @@ entries:
     urls:
     - https://devolutions.github.io/helm-charts/devolutions-server/devolutions-server-2025.3.15.tgz
     version: 2025.3.15
-  - apiVersion: v2
-    appVersion: 2025.3.15.0
-    created: "2026-02-22T16:45:21.87714702Z"
-    description: Devolutions Server (DVLS) Helm chart
-    digest: a89e025a8e5f4ac7ed5caef5f7754dbbad9549a21f22ca276348c15c3f1e2f67
-    home: https://devolutions.net/server/
-    icon: https://cdnweb.devolutions.net/cdn-cgi/image/f=auto,w=200,onerror=redirect/web/common/images/icons/sys-secure-access.png
-    keywords:
-    - devolutions
-    - dvls
-    - password-manager
-    maintainers:
-    - name: DevOps
-      url: https://forum.devolutions.net/forums/186/devolutions-server--linux
-    name: devolutions-server
-    type: application
-    urls:
-    - https://devolutions.github.io/helm-charts/devolutions-server/devolutions-server-0.1.0.tgz
-    version: 0.1.0
   dvls-kubernetes-operator:
   - apiVersion: v2
     appVersion: 0.3.0
