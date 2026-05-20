@@ -2,44 +2,6 @@ apiVersion: v1
 entries:
   devolutions-server:
   - apiVersion: v2
-    appVersion: 2026.2.0.0-beta
-    created: "2026-05-20T15:31:44.386807854Z"
-    description: Devolutions Server (DVLS) Helm chart
-    digest: 05e86e5f11d4dfffc189d2f1a7ff04ed9e6f33dcdd0eb722fc2d8ee2f7813876
-    home: https://devolutions.net/server/
-    icon: https://cdnweb.devolutions.net/cdn-cgi/image/f=auto,w=200,onerror=redirect/web/common/images/icons/sys-secure-access.png
-    keywords:
-    - devolutions
-    - dvls
-    - password-manager
-    maintainers:
-    - name: DevOps
-      url: https://forum.devolutions.net/forums/186/devolutions-server--linux
-    name: devolutions-server
-    type: application
-    urls:
-    - https://devolutions.github.io/helm-charts/devolutions-server/devolutions-server-2026.2.0.tgz
-    version: 2026.2.0
-  - apiVersion: v2
-    appVersion: 2026.2.0.0
-    created: "2026-05-15T12:22:44.215070194Z"
-    description: Devolutions Server (DVLS) Helm chart
-    digest: c175579776f9a55b551bb67c34d9e397c5d86a59950f58ebf54dcb46d9b8a700
-    home: https://devolutions.net/server/
-    icon: https://cdnweb.devolutions.net/cdn-cgi/image/f=auto,w=200,onerror=redirect/web/common/images/icons/sys-secure-access.png
-    keywords:
-    - devolutions
-    - dvls
-    - password-manager
-    maintainers:
-    - name: DevOps
-      url: https://forum.devolutions.net/forums/186/devolutions-server--linux
-    name: devolutions-server
-    type: application
-    urls:
-    - https://devolutions.github.io/helm-charts/devolutions-server/devolutions-server-2026.2.0-beta.tgz
-    version: 2026.2.0-beta
-  - apiVersion: v2
     appVersion: 2026.1.16.0
     created: "2026-05-20T15:31:44.383992443Z"
     description: Devolutions Server (DVLS) Helm chart
