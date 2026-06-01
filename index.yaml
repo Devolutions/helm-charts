@@ -3,7 +3,7 @@ entries:
   devolutions-server:
   - apiVersion: v2
     appVersion: 2026.2.2.0-beta
-    created: "2026-05-26T18:14:27.967252881Z"
+    created: "2026-06-01T18:33:46.803646956Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: c8902a727dcb255e18fe285b0f0ad69940239eec6f2f93cc04e7105293deda26
     home: https://devolutions.net/server/
@@ -22,7 +22,7 @@ entries:
     version: 2026.2.2-beta
   - apiVersion: v2
     appVersion: 2026.2.0.0-beta
-    created: "2026-05-26T18:14:27.966427681Z"
+    created: "2026-06-01T18:33:46.802948066Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: 54f29bc9de77e00cf614c816ebfd1bda1e18fc6815be020bd8ff8085d7e14111
     home: https://devolutions.net/server/
@@ -40,8 +40,27 @@ entries:
     - https://devolutions.github.io/helm-charts/devolutions-server/devolutions-server-2026.2.0-beta.tgz
     version: 2026.2.0-beta
   - apiVersion: v2
+    appVersion: 2026.1.20.0
+    created: "2026-06-01T18:33:46.800170942Z"
+    description: Devolutions Server (DVLS) Helm chart
+    digest: e54647ec391e9f28554e7159197a2cecaf5cd3e76699094ee702e16a6ddd3d84
+    home: https://devolutions.net/server/
+    icon: https://cdnweb.devolutions.net/cdn-cgi/image/f=auto,w=200,onerror=redirect/web/common/images/icons/sys-secure-access.png
+    keywords:
+    - devolutions
+    - dvls
+    - password-manager
+    maintainers:
+    - name: DevOps
+      url: https://forum.devolutions.net/forums/186/devolutions-server--linux
+    name: devolutions-server
+    type: application
+    urls:
+    - https://devolutions.github.io/helm-charts/devolutions-server/devolutions-server-2026.1.20.tgz
+    version: 2026.1.20
+  - apiVersion: v2
     appVersion: 2026.1.19.0
-    created: "2026-05-26T18:14:27.962270819Z"
+    created: "2026-06-01T18:33:46.799435304Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: 8eccbcac1453f8b48727b392f1a6f80679644afa9ca11735389a5fc5b4c6dd97
     home: https://devolutions.net/server/
@@ -60,7 +79,7 @@ entries:
     version: 2026.1.19
   - apiVersion: v2
     appVersion: 2026.1.16.0
-    created: "2026-05-26T18:14:27.961541181Z"
+    created: "2026-06-01T18:33:46.798563129Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: 34a1f5ecf1c275d1ad6cc02a872d12d89328dfe19f51b1de6526123151eb0078
     home: https://devolutions.net/server/
@@ -79,7 +98,7 @@ entries:
     version: 2026.1.16
   - apiVersion: v2
     appVersion: 2026.1.15.0
-    created: "2026-05-26T18:14:27.960781325Z"
+    created: "2026-06-01T18:33:46.796916123Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: 6fe2cf3baf21d7230d9217863026d4521977aa539861c24d84d1773510facb93
     home: https://devolutions.net/server/
@@ -98,7 +117,7 @@ entries:
     version: 2026.1.15
   - apiVersion: v2
     appVersion: 2026.1.14.0
-    created: "2026-05-26T18:14:27.960034508Z"
+    created: "2026-06-01T18:33:46.796213647Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: 0445279a31d42ab63a1cb6b1322245f2cc6cc403f618a16bddbc481ab6a6b523
     home: https://devolutions.net/server/
@@ -117,7 +136,7 @@ entries:
     version: 2026.1.14
   - apiVersion: v2
     appVersion: 2026.1.12.0
-    created: "2026-05-26T18:14:27.959150068Z"
+    created: "2026-06-01T18:33:46.795478008Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: 5bbb06043242074bc77f0752d309c5218413eff827fd2d50795c622397e1402a
     home: https://devolutions.net/server/
@@ -136,7 +155,7 @@ entries:
     version: 2026.1.12
   - apiVersion: v2
     appVersion: 2026.1.11.0
-    created: "2026-05-26T18:14:27.958013151Z"
+    created: "2026-06-01T18:33:46.794731399Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: a97f5f143e4d5365da791a5a51877b966d2c98181f46eb7dc8d55384d9c57766
     home: https://devolutions.net/server/
@@ -155,7 +174,7 @@ entries:
     version: 2026.1.11
   - apiVersion: v2
     appVersion: 2026.1.7.0
-    created: "2026-05-26T18:14:27.964399354Z"
+    created: "2026-06-01T18:33:46.802225692Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: aff834683aa2e68107dd2296d5926c50c46f799378ee2f3d95b60bd2ea8a2643
     home: https://devolutions.net/server/
@@ -174,7 +193,7 @@ entries:
     version: 2026.1.7
   - apiVersion: v2
     appVersion: 2026.1.6.0
-    created: "2026-05-26T18:14:27.963713582Z"
+    created: "2026-06-01T18:33:46.801571467Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: 914322500751b4e77e7623f48597a8af5e7d8350daf6f379395a864bda11913e
     home: https://devolutions.net/server/
@@ -193,7 +212,7 @@ entries:
     version: 2026.1.6
   - apiVersion: v2
     appVersion: 2026.1.3.0
-    created: "2026-05-26T18:14:27.963017321Z"
+    created: "2026-06-01T18:33:46.8008956Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: 4b352c40195d1885bf5f0b9e21eb3addddab2b7793d0072b4e18d7d236b5b74d
     home: https://devolutions.net/server/
@@ -212,7 +231,7 @@ entries:
     version: 2026.1.3
   - apiVersion: v2
     appVersion: 2025.3.22.0
-    created: "2026-05-26T18:14:27.956609461Z"
+    created: "2026-06-01T18:33:46.793986543Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: e53612e1663b48f06ec4245ca9678a6acfda74bfc6b0fd51847f63f0a20a22ed
     home: https://devolutions.net/server/
@@ -231,7 +250,7 @@ entries:
     version: 2025.3.22
   - apiVersion: v2
     appVersion: 2025.3.20.0
-    created: "2026-05-26T18:14:27.955853792Z"
+    created: "2026-06-01T18:33:46.793217783Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: f643b14345dab0819c6c6bd8c03d65f2cb8c25b58abb32e336c38e251d7b9417
     home: https://devolutions.net/server/
@@ -250,7 +269,7 @@ entries:
     version: 2025.3.20
   - apiVersion: v2
     appVersion: 2025.3.19.0
-    created: "2026-05-26T18:14:27.955091973Z"
+    created: "2026-06-01T18:33:46.792454673Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: 80a04b6137490ee5ce2cf067883c061a2b148b8b4b9447d646e6536d1a638483
     home: https://devolutions.net/server/
@@ -269,7 +288,7 @@ entries:
     version: 2025.3.19
   - apiVersion: v2
     appVersion: 2025.3.18.0
-    created: "2026-05-26T18:14:27.95433791Z"
+    created: "2026-06-01T18:33:46.791686984Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: ee41a69b8b80bb567e658921115c7135065d839693f217b6107d3d8a5856904f
     home: https://devolutions.net/server/
@@ -288,7 +307,7 @@ entries:
     version: 2025.3.18
   - apiVersion: v2
     appVersion: 2025.3.16.0
-    created: "2026-05-26T18:14:27.953603099Z"
+    created: "2026-06-01T18:33:46.789942338Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: 03032ed24bf3b31ddc87cb19d986b6880f581de2aeac0f63b2769b69cf871629
     home: https://devolutions.net/server/
@@ -307,7 +326,7 @@ entries:
     version: 2025.3.16
   - apiVersion: v2
     appVersion: 2025.3.15.0
-    created: "2026-05-26T18:14:27.952749572Z"
+    created: "2026-06-01T18:33:46.789210717Z"
     description: Devolutions Server (DVLS) Helm chart
     digest: c01d142febc327775cc330bb6d1eb96cb2d82b3c40f66186cae6e525eb26ceed
     home: https://devolutions.net/server/
@@ -327,7 +346,7 @@ entries:
   dvls-kubernetes-operator:
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2026-05-26T18:14:27.968323629Z"
+    created: "2026-06-01T18:33:46.805419968Z"
     description: Devolutions Server Kubernetes Operator
     digest: ad9ef18714bb8c0500bd63dc0e7bf8d7fffd20c948e3c3ffb25096458f7ff61b
     name: dvls-kubernetes-operator
@@ -337,7 +356,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2026-05-26T18:14:27.96795461Z"
+    created: "2026-06-01T18:33:46.804398874Z"
     description: Devolutions Server Kubernetes Operator
     digest: ff91709e8ff1fb64ec7b8f15da05348b2b9bdb63c44e29dac32c6d1699a016c1
     name: dvls-kubernetes-operator
@@ -347,7 +366,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-05-26T18:14:27.967576848Z"
+    created: "2026-06-01T18:33:46.803981302Z"
     description: Devolutions Server Kubernetes Operator
     digest: 1f00a5a9be620e1a8ac210c06253be8b3474a63dc0b20aeb472ee364d158994e
     name: dvls-kubernetes-operator
@@ -355,4 +374,4 @@ entries:
     urls:
     - https://devolutions.github.io/helm-charts/dvls-kubernetes-operator/dvls-kubernetes-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2026-05-26T18:14:27.951810153Z"
+generated: "2026-06-01T18:33:46.788369982Z"
